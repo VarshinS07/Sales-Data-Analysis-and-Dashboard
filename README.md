@@ -61,4 +61,3 @@ The main objective is to support **data-driven decision making** by visualizing 
 
 ---
 
-CSV & XLSX — Dataset storage and transformation formats
