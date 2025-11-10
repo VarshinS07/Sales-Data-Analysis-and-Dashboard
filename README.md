@@ -30,7 +30,7 @@ Monthly Growth Trend
 File: salesdashbord.pbix
 
 Preview: Dashboard Preview
-![Sales Analysis Dashboard](images/dashboard.png)
+
 
 
 🧠 Key Insights
