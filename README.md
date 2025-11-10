@@ -27,9 +27,9 @@ Top 5 Products by Sales
 Regional Sales Performance
 Monthly Growth Trend
 📊 Power BI Dashboard
+File: salesdashbord.pbix
+
 Preview: Dashboard Preview
-
-
 
 🧠 Key Insights
 Total Sales reached ₹503K with a 14.8% overall profit margin.
