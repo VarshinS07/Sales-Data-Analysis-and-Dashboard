@@ -26,6 +26,7 @@ The dataset was preprocessed and cleaned to ensure accuracy, consistency, and re
 
 4. Data Exploration Using Pivot Tables
   Pivot tables were created to summarize key aspects of the data for insights:
+Power Bi.jpg
 
 
 Pivot Table	                  Purpose	Key Findings
