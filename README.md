@@ -27,7 +27,7 @@ Top 5 Products by Sales
 Regional Sales Performance
 Monthly Growth Trend
 📊 Power BI Dashboard
-File: salesdashbord.pbix
+File: dashboard_png.jpg
 
 Preview: Dashboard Preview
 
